@@ -1,14 +1,7 @@
 package org.example;
 
 public class DannyWay extends BbqWay{
-    public DannyWay() {
-
-    }
-
-    @Override
-    void wich_way() {
-        System.out.println("Danny's Way");
-    }
+    public DannyWay() {}
 
     @Override
     public void cleaning_the_yard() {
